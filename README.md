@@ -213,17 +213,6 @@ void InitialiseWeights()
 ## Выводы
 В рамках лабораторной работы 4 был применен перцептор для реализации стандартных логических операторов. Также было выяснено, что корректность исполненения будет присутствовать для функций линейного типа `aX+b`
 
-
-
-| Plugin | README |
-| ------ | ------ |
-| Dropbox | [plugins/dropbox/README.md][PlDb] |
-| GitHub | [plugins/github/README.md][PlGh] |
-| Google Drive | [plugins/googledrive/README.md][PlGd] |
-| OneDrive | [plugins/onedrive/README.md][PlOd] |
-| Medium | [plugins/medium/README.md][PlMe] |
-| Google Analytics | [plugins/googleanalytics/README.md][PlGa] |
-
 ## Powered by
 
 **BigDigital Team: Denisov | Fadeev | Panov**
